@@ -1,7 +1,5 @@
-# git log --oneline output:
+## git log --oneline output:
+# afaeb49 Complete week 2 assignment
 # c3d3c71 Add warmup1 and warmup2 for week 2
 
-# This week I learned how to use the terminal,
-# run Python scripts, and work with Git and GitHub.
-
-print("I learned how to use Python, the terminal, and Git this week!")
+print("This week I learned how to use Python, the terminal, Git, and GitHub.") 

@@ -2,14 +2,18 @@
 # NameError: name 'age' is not defined
 #
 # Cause:
-# I tried to use a variable that was never created.
+# I tried to print a variable before creating it.
 #
-# Fix:
-# I created the variable before using it.
+# How I fixed it:
+# I created the age variable before using print().
 
+# Original bug:
+# print(age)
+
+# Fixed code:
 age = 45
 
-print(age) 
+print(age)  
 
 
 
