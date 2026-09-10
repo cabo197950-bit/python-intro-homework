@@ -1,0 +1,10 @@
+# requirements.txt
+# certifi==2026.7.22
+# charset-normalizer==3.5.1
+# idna==3.19
+# requests==2.34.2
+# urllib3==2.7.0
+
+import requests
+
+print(f"Requests version: {requests.__version__}")
